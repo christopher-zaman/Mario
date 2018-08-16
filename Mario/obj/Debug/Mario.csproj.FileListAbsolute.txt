@@ -1,0 +1,9 @@
+C:\Users\akoc\Desktop\Mario\Mario\bin\Debug\Mario.exe.config
+C:\Users\akoc\Desktop\Mario\Mario\bin\Debug\Mario.exe
+C:\Users\akoc\Desktop\Mario\Mario\bin\Debug\Mario.pdb
+C:\Users\akoc\Desktop\Mario\Mario\obj\Debug\Mario.csprojResolveAssemblyReference.cache
+C:\Users\akoc\Desktop\Mario\Mario\obj\Debug\Mario.Form1.resources
+C:\Users\akoc\Desktop\Mario\Mario\obj\Debug\Mario.Properties.Resources.resources
+C:\Users\akoc\Desktop\Mario\Mario\obj\Debug\Mario.csproj.GenerateResource.Cache
+C:\Users\akoc\Desktop\Mario\Mario\obj\Debug\Mario.exe
+C:\Users\akoc\Desktop\Mario\Mario\obj\Debug\Mario.pdb
